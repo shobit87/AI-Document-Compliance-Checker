@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+python-multipart
+aiofiles
+PyMuPDF
+python-docx
+fpdf
+pdfplumer
+streamlit
+python-docx
+openai
+requests
+textblob
+docx2pdf
