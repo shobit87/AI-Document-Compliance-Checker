@@ -66,7 +66,7 @@ Copy code
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shobit87/AI-DOC-COMPLIANCE.git
+git clone https://github.com/shobit87/AI-Document-Compliance-Checker.git
 cd AI-DOC-COMPLIANCE
 2️⃣ Create a Virtual Environment
 bash
