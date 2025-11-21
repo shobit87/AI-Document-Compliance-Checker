@@ -7,10 +7,10 @@ aiofiles
 PyMuPDF
 python-docx
 fpdf
-pdfplumer
 streamlit
 python-docx
 openai
 requests
 textblob
 docx2pdf
+pdfplumber
